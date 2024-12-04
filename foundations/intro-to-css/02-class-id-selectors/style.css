@@ -1,0 +1,18 @@
+.simpleRed{
+    background-color: rgb(255, 0, 0, 0.4);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.simpleRed.bigger{
+    font-size: 20px;
+    font-weight: bold;
+}
+#theIdGuy{
+    color: blue;
+    font-size: 30px;
+}
+#theOtherIdGuy{
+    background-color: rgb(0,255,0,0.5);
+    font-weight: bold;
+    font-size: 18px;
+}
