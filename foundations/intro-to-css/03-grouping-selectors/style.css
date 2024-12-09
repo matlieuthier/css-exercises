@@ -1,0 +1,12 @@
+.colorB{
+    background-color: black;
+    color:white;
+}
+.colorY{
+    background-color: yellow;
+
+}
+.colorB,  .colorY{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
